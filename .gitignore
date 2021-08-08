@@ -1,0 +1,17 @@
+# build
+dist
+package-lock.json
+.DS_Store
+.lock*
+.tmp*
+
+# dependencies
+node_modules
+.snowpack
+
+# logs
+.log*
+
+# environment variables
+.env
+.env.production
